@@ -7,7 +7,7 @@ electronics and Linux.
 ## Technologies
 
 ### Languages
-C/C++ · Python · JavaScript · PHP · Bash · Lua
+C/C++ · JavaScript · PHP · Bash
 
 ### Tools & Platforms
 Linux · Git · GitHub · Arduino · GitHub Pages
