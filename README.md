@@ -1,4 +1,4 @@
-# Arthur
+# About Me
 
 Systems Development student at IFPR.
 Interested in Computer Engineering, robotics, embedded systems,
