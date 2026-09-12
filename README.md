@@ -8,7 +8,7 @@ electronics and Linux.
 
 ### Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" />
 
 C/C++ · JavaScript · PHP · Bash
 
