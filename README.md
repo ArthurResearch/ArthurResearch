@@ -4,15 +4,12 @@ Systems Development student at IFPR.
 Interested in Computer Engineering, robotics, embedded systems,
 electronics and Linux.
 
-## Technologies
+## 🛠️ Tecnologias e Ferramentas
 
-### Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/>
-
-### Tools & Platforms
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40"/>
+* **Linguagens:** ![Rust](https://shields.io) ![C++](https://shields.io) ![TypeScript](https://shields.io)
+* **Web & Frameworks:** ![React](https://shields.io) ![Node.js](https://shields.io)
+* **Embarcados & Hardware:** ESP32, STM32, Arduino
+* **Infra & Utilitários:** ![Docker](https://shields.io) ![Git](https://shields.io)
 
 ## Interests
 
