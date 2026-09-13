@@ -1,8 +1,6 @@
 # Arthy Kardos
 
-Systems Development student at IFPR.
-Interested in Computer Engineering, robotics, embedded systems,
-electronics and Linux.
+Interested in Computer Engineering, robotics, embedded systems, electronics and Linux.
 
 ## Languages
 
