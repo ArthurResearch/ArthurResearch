@@ -14,7 +14,7 @@ electronics and Linux.
 
 ## Database
 <!-- Languages -->
-![HTML5](https://img.shields.io/badge/html5-orange?logo=html5)
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge?logo=html5)
 ![CSS3](https://shields.io)
 ![TypeScript](https://shields.io)
 ![Go](https://shields.io)
