@@ -13,8 +13,17 @@ electronics and Linux.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40"/> 
 
 ## Database
+<!-- Languages -->
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![TypeScript](https://shields.io)
+![Go](https://shields.io)
 
-https://img.shields.io/badge/github-repo-blue?logo=github
+<!-- Frameworks & Tech -->
+![NodeJS](https://shields.io)
+![Docker](https://shields.io)
+![AWS](https://shields.io)
+
 
 ## Interests
 
