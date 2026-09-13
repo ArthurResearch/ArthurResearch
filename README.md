@@ -14,7 +14,7 @@ electronics and Linux.
 
 ## Database
 
-![Instagram](https://shields.io)
+https://img.shields.io/badge/github-repo-blue?logo=github
 
 ## Interests
 
