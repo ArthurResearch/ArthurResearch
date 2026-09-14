@@ -15,4 +15,4 @@ Interested in Computer Engineering, robotics, embedded systems, electronics and 
 Electronics · Robotics · Embedded Systems · Computer Engineering ·
 Computer Architecture · Linux · Artificial Intelligence
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apiArthurResearchanuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?ArthurResearch=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
