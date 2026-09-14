@@ -10,9 +10,6 @@ Interested in Computer Engineering, robotics, embedded systems, electronics and 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
 
-## Interests
-
-Electronics · Robotics · Embedded Systems · Computer Engineering ·
-Computer Architecture · Linux · Artificial Intelligence
+## GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurResearch&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurResearch&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
