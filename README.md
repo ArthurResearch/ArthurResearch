@@ -15,4 +15,4 @@ Interested in Computer Engineering, robotics, embedded systems, electronics and 
 Electronics · Robotics · Embedded Systems · Computer Engineering ·
 Computer Architecture · Linux · Artificial Intelligence
 
-[![Arthur's GitHub stats](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
+[![ArthurResearch's GitHub stats](https://github-stats-extended.vercel.app/api?username=ArthurResearch)](https://github.com/stats-organization/github-stats-extended)
