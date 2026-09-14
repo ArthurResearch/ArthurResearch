@@ -12,4 +12,4 @@ Interested in Computer Engineering, robotics, embedded systems, electronics and 
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurResearch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=ArthurResearch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurResearch&layout=compact&hide_title=true&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurResearch&layout=compact&hide_title=true&langs_count=4&theme=blue_navy)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurResearch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=ArthurResearch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy)
