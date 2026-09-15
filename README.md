@@ -13,5 +13,3 @@ Interested in Computer Engineering, robotics, embedded systems, electronics and 
 ## GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurResearch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=ArthurResearch&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArthurResearch)](https://git.io/streak-stats)
