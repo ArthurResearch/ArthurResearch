@@ -1,6 +1,6 @@
 # Arthy Kardos
 
-Interested in Computer Engineering, robotics, embedded systems, electronics and Linux.
+Systems Development Student at IFPR
 
 ## Languages
 
